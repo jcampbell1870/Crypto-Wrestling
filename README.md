@@ -8,9 +8,8 @@ mash your way out of.
 A standalone **3D edition** for Windows PC and Chromebook is also available. See
 [Crypto Wrestling 3D](#crypto-wrestling-3d-downloads).
 
-The headliner is **Bronwyne Billington**, daughter of 1980s WWF tag team champion
-Tom "Dynamite Kid" Billington of the British Bulldogs. She is the highest rated
-competitor on the roster.
+The headliner is **Luz Martínez**, a fictional Mexican luchadora from Guadalajara,
+Jalisco. She is the highest rated competitor on the roster.
 
 Crypto Wrestling is a crypto game. It uses the **same reward payout system as
 Crypto Hockey**: an EIP-712 signed claim is issued by the server, and the player
@@ -103,11 +102,11 @@ shown in your career stats and on the leaderboard.
 
 | Wrestler | Nickname | Overall |
 |---|---|---|
-| Bronwyne Billington | — | 10 |
+| Luz Martínez | — | 10 |
 | The rest of the card | see the in-game **Roster** page | 6 - 9 |
 
-Bronwyne is the only real person represented in the game; every other wrestler
-is an original fictional character.
+Luz Martínez is the only headliner; every other wrestler is an original fictional
+character.
 
 ## Arcade1870 rewards
 

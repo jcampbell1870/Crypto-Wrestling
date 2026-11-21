@@ -1,4 +1,4 @@
-# Dynamite Doll Wrestling
+# Crypto Wrestling
 
 A 2D all-female wrestling game for Windows PC, played in the style of the 1990
 Nintendo Entertainment System classic *WWF WrestleMania Challenge*: chunky pixel
@@ -6,16 +6,16 @@ sprites, a side-on ring, best-of-three falls, and a three count that you have to
 mash your way out of.
 
 A standalone **3D edition** for Windows PC and Chromebook is also available. See
-[Dynamite Doll Wrestling 3D](#dynamite-doll-wrestling-3d-downloads).
+[Crypto Wrestling 3D](#crypto-wrestling-3d-downloads).
 
-The headliner is **Bronwyne "Dynamite Doll" Billington**, daughter of 1980s WWF
-tag team champion Tom "Dynamite Kid" Billington of the British Bulldogs. She is
-the highest rated competitor on the roster.
+The headliner is **Bronwyne Billington**, daughter of 1980s WWF tag team champion
+Tom "Dynamite Kid" Billington of the British Bulldogs. She is the highest rated
+competitor on the roster.
 
-Dynamite Doll Wrestling is a crypto game. It uses the **same reward payout
-system as Crypto Hockey**: an EIP-712 signed claim is issued by the server, and
-the player redeems it from the `Arcade1870RewardVault` contract through MetaMask
-to receive **Arcade1870 (A1870)** tokens.
+Crypto Wrestling is a crypto game. It uses the **same reward payout system as
+Crypto Hockey**: an EIP-712 signed claim is issued by the server, and the player
+redeems it from the `Arcade1870RewardVault` contract through MetaMask to receive
+**Arcade1870 (A1870)** tokens.
 
 | | |
 |---|---|
@@ -29,15 +29,15 @@ browser, and the [MetaMask](https://metamask.io/) extension if you want to claim
 rewards.
 
 ```powershell
-git clone https://github.com/jcampbell1870/Dynamite-Doll-Wrestling.git
-cd Dynamite-Doll-Wrestling
+git clone https://github.com/jcampbell1870/Crypto-Wrestling.git
+cd Crypto-Wrestling
 dotnet run
 ```
 
 Then open the URL printed in the console (for example `https://localhost:7229`)
 and go to **Match**.
 
-## Dynamite Doll Wrestling 3D (downloads)
+## Crypto Wrestling 3D (downloads)
 
 The `game/` folder contains a standalone 3D edition built with
 [three.js](https://threejs.org/) and WebGL 2. It has jointed, procedurally
@@ -45,13 +45,13 @@ animated wrestlers; PBR materials; soft shadows; bloom; a lit arena with a
 crowd, titantron, LED boards, moving lights and pyro; a broadcast-style
 director camera; synthesized arena audio; and keyboard, gamepad and touch
 controls. Download it from the
-[GitHub Pages download page](https://jcampbell1870.github.io/Dynamite-Doll-Wrestling/):
+[GitHub Pages download page](https://jcampbell1870.github.io/Crypto-Wrestling/):
 
 - **Windows PC (x64):** a portable desktop app. Extract the ZIP and run
-  `DynamiteDollWrestling.exe`. It starts full screen with Ultra graphics, which
+  `CryptoWrestling.exe`. It starts full screen with Ultra graphics, which
   render internally at up to 3840×2160. The ZIP is over GitHub Pages' 100 MB file
   limit, so it is attached to the latest
-  [GitHub release](https://github.com/jcampbell1870/Dynamite-Doll-Wrestling/releases/latest)
+  [GitHub release](https://github.com/jcampbell1870/Crypto-Wrestling/releases/latest)
   and the download page links there.
 - **Chromebook:** extract the ZIP in the Files app and open `index.html` in
   Chrome. Starts on Medium graphics and runs offline.
@@ -103,7 +103,7 @@ shown in your career stats and on the leaderboard.
 
 | Wrestler | Nickname | Overall |
 |---|---|---|
-| Bronwyne Billington | The Dynamite Doll | 10 |
+| Bronwyne Billington | — | 10 |
 | The rest of the card | see the in-game **Roster** page | 6 - 9 |
 
 Bronwyne is the only real person represented in the game; every other wrestler
